@@ -2,13 +2,13 @@
 
 https://facebook-clone-227e6.web.app
 
-#Technologies
+# Technologies
 
--React + React Hooks
--Material UI
--Flexbox
--Firebase's Firestore realtime DB
--Firebase Google Authentication
+- React + React Hooks
+- Material UI
+- Flexbox
+- Firebase's Firestore realtime DB
+- Firebase Google Authentication
 
 ## Aditional Info
 
