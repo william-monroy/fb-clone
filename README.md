@@ -2,6 +2,14 @@
 
 https://facebook-clone-227e6.web.app
 
+#Technologies
+
+-React + React Hooks
+-Material UI
+-Flexbox
+-Firebase's Firestore realtime DB
+-Firebase Google Authentication
+
 ## Aditional Info
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
